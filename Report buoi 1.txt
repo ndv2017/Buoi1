@@ -15,7 +15,7 @@ REPORT TUẦN 1: 4/12 - 11/2
 	1. C Essentials - Part 1 (Basics)
 	2. C Essentials - Part 2 (Intermediate)
 	3. C Advanced
-=> Đã hoàn thành 1. C Essentials - Part 1 (Basics) nhưng chưa kiểm tra lấy chứng chỉ CLE – C Certified Entry-Level Programmer Certification
+=> Đã hoàn thành 1. C Essentials - Part 1 (Basics)
 
 
 
